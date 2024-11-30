@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "525796885243",
+    "project_id": "talktometro-abdc6",
+    "storage_bucket": "talktometro-abdc6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525796885243:android:db56ae11490a2bd0d2a65e",
+        "android_client_info": {
+          "package_name": "com.mycompany.talk2metro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaLQHP9T6HgoHinixBbOjLsLki0jZMwzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
